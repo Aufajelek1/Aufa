@@ -6,7 +6,7 @@ package com.mycompany.belajarjavap3;
 import java.util.Scanner;
 /**
  *
- * @author ISWARA DAFFA
+ * @author FIRYAL AUFA
  */
 public class IfClassAksi {
   public static void main(String[] args)
