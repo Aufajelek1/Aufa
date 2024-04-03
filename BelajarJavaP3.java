@@ -6,7 +6,7 @@ package com.mycompany.belajarjavap3;
 
 /**
  *
- * @author ISWARA DAFFA
+ * @author firyal aufa
  */
 public class BelajarJavaP3 {
 
