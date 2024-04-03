@@ -6,7 +6,7 @@ package com.mycompany.belajarjavap3;
 
 /**
  *
- * @author ISWARA DAFFA
+ * @author FIRYAL AUFA
  */
 public class IfElseAksi {
     public static void main(String[] args){
