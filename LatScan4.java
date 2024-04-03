@@ -6,7 +6,7 @@ package com.mycompany.belajarjavap3;
 import java.util.*;
 /**
  *
- * @author ISWARA DAFFA
+ * @author FIRYAL AUFA
  */
 public class LatScan4 
 {
