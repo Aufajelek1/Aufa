@@ -6,7 +6,7 @@ package com.mycompany.belajarjavap3;
 
 /**
  *
- * @author ISWARA DAFFA
+ * @author FIRYAL AUFA
  */
 public class IfClass {
  public double TotBeli,potongan;
