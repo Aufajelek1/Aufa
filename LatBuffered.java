@@ -6,7 +6,7 @@ package com.mycompany.belajarjavap3;
 import java.io.*;
 /**
  *
- * @author ISWARA DAFFA
+ * @author FIRYAL AUFA
  */
 public class LatBuffered {
     public static void main(String args[])throws Exception
