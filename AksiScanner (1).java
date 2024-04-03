@@ -6,7 +6,7 @@ package com.mycompany.belajarjavap3;
 import java.util.Scanner;
 /**
  *
- * @author ISWARA DAFFA
+ * @author firyal aufa
  */
 public class AksiScanner {
     public static void main(String args[])
