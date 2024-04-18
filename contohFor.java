@@ -5,7 +5,7 @@
 
 /**
  *
- * @author ISWARA DAFFA
+ * @author firyal aufa
  */
 public class contohFor {
     public static void main(String[] args)
