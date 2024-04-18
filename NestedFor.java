@@ -5,7 +5,7 @@
 
 /**
  *
- * @author ISWARA DAFFA
+ * @author Firyal Aufa
  */
 public class NestedFor {
     public static void main(String[] args)
