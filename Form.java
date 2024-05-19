@@ -6,7 +6,7 @@ package MembuatFormP4;
 import javax.swing.*;
 /**
  *
- * @author DELL
+ * @author firyalaufa
  */
 public class BuatForm {
     
