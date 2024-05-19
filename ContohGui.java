@@ -8,7 +8,7 @@ import java.awt.*;
 import java.awt.event.*;
 /**
  *
- * @author DELL
+ * @author firyalaufa
  */
 public class ContohGui extends JFrame {
     
