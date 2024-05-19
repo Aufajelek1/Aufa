@@ -7,7 +7,7 @@ import javax.swing.*;
 import java.awt.*;
 /**
  *
- * @author DELL
+ * @author firyalaufa
  */
 public class DemoGui extends JFrame{
     JPanel jp= new JPanel();
